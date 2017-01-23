@@ -1,10 +1,10 @@
-# Intro into Open Sourced Projects
+# Tutorial on how to get Women Who Code's website environment up and running
 
 This is my first time being exposed to an open source project, specifically's Women Who Code's website. The have their issues grouped by the type of problem and complexity, including beginner friendly issues.
 
 The tutorial goes over how to their environment up and running. They have a terrific [wiki](https://github.com/WomenWhoCode/website/wiki/General-Setup-Guide) on their repo but I wanted to share how I set up it, issues I ran into and how I resolved them. I'm working off a fairly new machine that has Node installed and atom, but not much else so basically from scratch.
 
-Their site is built with Ruby and Rails, Postgresql for their database, elasticsearch for searching and REact JS for frontend. Dependencies are managed with Bundler and environment variables with Figaro. To test our code we use rspec.
+Their site is built with Ruby and Rails, Postgresql for their database, elasticsearch for searching and React JS for frontend. Dependencies are managed with Bundler and environment variables with Figaro. To test our code we use rspec.
 
 
 # Objectives
