@@ -1,4 +1,4 @@
-# Tutorial on how to get Women Who Code's website environment up and running
+# Getting Women Who Code's website environment up and running
 
 This is my first time being exposed to an open source project, specifically's Women Who Code's website. The have their issues grouped by the type of problem and complexity, including beginner friendly issues.
 
